@@ -1,2 +1,2 @@
 # Homework2
-Homework2 Redesign one pahe website or single page website
+Homework2 Redesign one page website or single page website.
